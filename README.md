@@ -2,7 +2,7 @@
 - 👀 I’m interested in network security and fintech
 - 🌱 I’m currently learning CS 
 - 💞️ I’m looking to collaborate on whatever opportunity arrises
-- 📫 How to reach me hmmm...
+- 📫 How to reach me catherinerich101@gmail.com
 
 <!---
 Scarlett-stack/Scarlett-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
