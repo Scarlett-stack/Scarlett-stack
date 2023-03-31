@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scarlett-stack
-- 👀 I’m interested in network security and fintech
-- 🌱 I’m currently learning CS 
+- 👀 I’m interested in python and fintech
+- 🌱 I’m currently learning CS at UPB ACS CTI
 - 💞️ I’m looking to collaborate on whatever opportunity arrises
 - 📫 How to reach me catherinerich101@gmail.com
 
