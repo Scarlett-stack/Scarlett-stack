@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scarlett-stack
+- 👋 Hi, I’m Daria-Catalina Banu ( @Scarlett-stack )
 - 👀 I’m interested in python and fintech
 - 🌱 I’m currently learning CS at UPB ACS CTI
 - 💞️ I’m looking to collaborate on whatever opportunity arrises
